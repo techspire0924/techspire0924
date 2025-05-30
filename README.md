@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kevin Wang</h1>
 <h3 align="center">Senior Full Stack Engineer | Java, JavaScript, TypeScript, PHP, Python, Go | Scalable Systems with Modern UX</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
+</p>
+
 ---
 
 💡 I’m a passionate software engineer with 11+ years of experience delivering **full-stack systems** that are **secure, scalable**, and **user-centric**.
@@ -123,7 +127,3 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
 - 📬 Email: kevin.yw.tech@email.com
 
 <hr>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
-</p>
