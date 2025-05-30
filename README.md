@@ -64,12 +64,11 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
 
 ### 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 📬 Email: your@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-wang-4a4200353)
+- 📬 Email: kevin.yw.tech@email.com
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Secure+Backends+%7C+Clean+Frontends+%7C+Real+Impact;Full+Stack+Engineering+That+Delivers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
 </p>
