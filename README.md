@@ -51,8 +51,6 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
----
-
 ### 🖥️ Frontend & UI
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -61,8 +59,6 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
-
----
 
 ### ☁️ Cloud, DevOps & Tools
 <p align="center">
@@ -74,8 +70,6 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
----
-
 ### 🧠 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -85,9 +79,7 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </p>
 
----
-
-### 💬 Bonus Emoji Summary
+### 💬 Summary
 
 **Languages**: 🟦 Java · 🐍 Python · 💜 PHP · 🟨 JavaScript · ⚡ TypeScript · 🌀 Go  
 **Frontend**: ⚛️ React · 🚀 Next.js · 🎨 Tailwind · 📘 MUI  
