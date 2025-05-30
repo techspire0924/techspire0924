@@ -10,7 +10,7 @@ I specialize in building:
 - ⚙️ **Frontend apps** with React, Next.js, and TypeScript
 - ☁️ **Cloud-native solutions** using AWS, Docker, and CI/CD automation
 
----
+<hr>
 
 ### 🧰 Tech Stack
 
@@ -87,7 +87,7 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
 **DevOps**: 🐳 Docker · ☁️ AWS · 🧱 Kubernetes · ⚙️ Terraform  
 **Databases**: 🐘 PostgreSQL · 🍃 MongoDB · 🔴 Redis · 🟩 MySQL · 🔷 DynamoDB
 
----
+<hr>
 
 ### 🚀 Featured Projects
 
@@ -106,7 +106,7 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
 - 🧱 **Modular CMS & API Layer**  
   Built with Laravel, GraphQL, and Redis cache for multi-tenant content delivery and dynamic user access levels.
 
----
+<hr>
 
 ### 📈 GitHub Stats
 
@@ -115,14 +115,14 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwang&layout=compact&theme=dark" />
 </p>
 
----
+<hr>
 
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-wang-4a4200353)
 - 📬 Email: kevin.yw.tech@email.com
 
----
+<hr>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
