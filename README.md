@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">Senior Full Stack Engineer | Java, JavaScript, TypeScript, PHP, Python, Go | Scalable Systems with Modern UX</h3>
 
 <p align="center">
