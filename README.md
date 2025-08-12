@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Senior Full Stack Engineer | Java, JavaScript, TypeScript, PHP, Python, Go | Scalable Systems with Modern UX</h3>
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center">Full Stack Engineer | Java, JavaScript, TypeScript, PHP, Python, Go | Scalable Systems with Modern UI/UX</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
@@ -90,25 +90,6 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
 **Backend**: 🌿 Spring · 🔥 Laravel · 🧬 GraphQL · ⚙️ FastAPI  
 **DevOps**: 🐳 Docker · ☁️ AWS · 🧱 Kubernetes · ⚙️ Terraform  
 **Databases**: 🐘 PostgreSQL · 🍃 MongoDB · 🔴 Redis · 🟩 MySQL · 🔷 DynamoDB
-
-<hr>
-
-### 🚀 Featured Projects
-
-- 🔄 **Reward & Cashback System**  
-  Designed Go + PostgreSQL microservices for point calculations and real-time redemption. Frontend built with React + TypeScript.
-
-- 📊 **Real-Time Dashboard Platform**  
-  Developed responsive frontend using Next.js, Tailwind, and GraphQL subscriptions. Integrated with Firebase for auth and notifications.
-
-- 🔐 **Secure Auth & Role System**  
-  Implemented Spring Security and Laravel Passport to manage JWT-based sessions, access tokens, and user roles.
-
-- 🗣️ **Live Transcription Tool**  
-  Built a full-stack solution with React, WebSockets, FastAPI, and OpenAI Whisper for streaming voice-to-text and generating summaries.
-
-- 🧱 **Modular CMS & API Layer**  
-  Built with Laravel, GraphQL, and Redis cache for multi-tenant content delivery and dynamic user access levels.
 
 <hr>
 
