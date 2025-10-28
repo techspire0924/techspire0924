@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">Full Stack Engineer | Java, JavaScript, TypeScript, PHP, Python, Go | Scalable Systems with Modern UI/UX</h3>
+<h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Python, Python, Java, Go, PHP | Scalable Systems with Modern UI/UX</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
@@ -9,23 +9,18 @@
 
 💡 I’m a passionate software engineer with 11+ years of experience delivering **full-stack systems** that are **secure, scalable**, and **user-centric**.
 
-I specialize in building:
-- 🧠 **Backend APIs** with Spring Boot, Node.js, Laravel, and Flask
-- ⚙️ **Frontend apps** with React, Next.js, and TypeScript
-- ☁️ **Cloud-native solutions** using AWS, Docker, and CI/CD automation
-
 <hr>
 
 ### 🧰 Tech Stack
 
 **Languages**  
-Java · JavaScript · TypeScript · PHP · Python · Go · SQL
-
-**Backend**  
-Spring Boot · Node.js · Express · Laravel · Symfony · Flask · FastAPI · REST / GraphQL APIs
+JavaScript · TypeScript · Python · PHP · Go · Java · SQL
 
 **Frontend**  
 React · Next.js · TypeScript · Redux · Tailwind CSS · Material UI · HTML5/CSS3
+
+**Backend**  
+Spring Boot · Node.js · Express · Laravel · Symfony · Flask · FastAPI · REST / GraphQL APIs
 
 **Databases**  
 PostgreSQL · MySQL · DynamoDB · MongoDB · Redis
