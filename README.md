@@ -2,8 +2,10 @@
 <h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Python, Java | Scalable Systems with Modern UI/UX</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends%2C+Delivering+Scalable+Reliable+Software+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backends;Crafting+Modern+Frontends;Delivering+Scalable+Reliable+Software+Solutions" />
 </p>
+
+
 
 ---
 
