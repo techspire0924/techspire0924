@@ -2,19 +2,19 @@
 <h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Python, Java | Scalable Systems with Modern UI/UX</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends%2C+Delivering+Scalable+Reliable+Software+Solutions" />
 </p>
 
 ---
 
-💡 I’m a passionate software engineer with 11+ years of experience delivering **full-stack systems** that are **secure, scalable**, and **user-centric**.
+💡 I’m a passionate software engineer with 10+ years of experience delivering **full-stack systems** that are **secure, scalable**, and **user-centric*
 
 <hr>
 
 ### 🧰 Tech Stack
 
 **Languages**  
-JavaScript · TypeScript · Python · PHP · Go · Java · SQL
+JavaScript · TypeScript · Python · PHP · Go · Java · C# · SQL
 
 **Frontend**  
 React · Next.js · TypeScript · Redux · Tailwind CSS · Material UI · HTML5/CSS3
