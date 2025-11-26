@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Python, Python, Java, Go, PHP | Scalable Systems with Modern UI/UX</h3>
+<h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Python, Java | Scalable Systems with Modern UI/UX</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends+%7C+Crafting+Modern+Frontends;Delivering+Scalable%2C+Reliable+Software+Solutions" />
