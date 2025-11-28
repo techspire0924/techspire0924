@@ -31,11 +31,8 @@
 
 ---
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&column=7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techspire0924&layout=compact&theme=tokyonight&hide_border=true" />
-![snake gif](https://raw.githubusercontent.com/techspire0924/techspire0924/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&column=7" />
 </p>
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/techspire0924/techspire0924/output/github-contribution-grid-snake.svg" />
 </p>
