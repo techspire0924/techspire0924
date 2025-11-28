@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backends;Crafting+Modern+Frontends;Delivering+Scalable+Reliable+Software+Solutions" />
 </p>
 
-
-
 ---
-
-💡 I’m a passionate software engineer with 10+ years of experience delivering **full-stack systems** that are **secure, scalable**, and **user-centric*
 
 <hr>
 
@@ -79,14 +75,6 @@ Jest · Playwright · Cypress · PHPUnit · Pytest · GitHub Actions CI
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </p>
-
-### 💬 Summary
-
-**Languages**: 🟦 Java · 🐍 Python · 💜 PHP · 🟨 JavaScript · ⚡ TypeScript · 🌀 Go  
-**Frontend**: ⚛️ React · 🚀 Next.js · 🎨 Tailwind · 📘 MUI  
-**Backend**: 🌿 Spring · 🔥 Laravel · 🧬 GraphQL · ⚙️ FastAPI  
-**DevOps**: 🐳 Docker · ☁️ AWS · 🧱 Kubernetes · ⚙️ Terraform  
-**Databases**: 🐘 PostgreSQL · 🍃 MongoDB · 🔴 Redis · 🟩 MySQL · 🔷 DynamoDB
 
 <hr>
 
