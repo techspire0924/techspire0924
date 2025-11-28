@@ -18,16 +18,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Tokyo Night Snake
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: techspire0924
+
+          # Output
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # THEME CONFIG
-          color_snake: "#00f7ff"
-          color_dots: "#1e1e1e"
-          color_back: "#000000"
+
+          # 🎨 TOKYO NIGHT COLOR THEME
+          color_snake: "#7aa2f7"        # neon blue
+          color_dots: "#1a1b26"         # tokyonight deep background
+          color_back: "#00000000"       # transparent background (best for README)
           animation_duration: 3000
 
       - name: Push snake animation to output branch
