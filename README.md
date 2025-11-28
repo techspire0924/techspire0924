@@ -34,5 +34,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&column=7" />
 </p>
 <p>
+  <img src="https://metrics.lecoq.io/techspire0924?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&config.timezone=Asia%2FCalcutta" alt="Metrics" width="100%"/>
   <img src="https://raw.githubusercontent.com/techspire0924/techspire0924/output/github-contribution-grid-snake.svg" />
 </p>
