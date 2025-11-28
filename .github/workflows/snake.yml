@@ -19,11 +19,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: techspire0924
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # THEME CONFIG
+          color_snake: "#00f7ff"
+          color_dots: "#1e1e1e"
+          color_back: "#000000"
+          animation_duration: 3000
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
