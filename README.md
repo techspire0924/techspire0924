@@ -31,8 +31,11 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&rank=-C" />
 </p>
+
+
+
 <p>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
