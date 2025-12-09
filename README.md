@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=180&section=header&text=Hi%20👋&fontSize=40&fontColor=1a1a1a" />
 </p>
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2300&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=I'm+Kevin;Full+Stack+Developer;Automation+Enjoyer+❤️;Cloud+%26+Backend+Nerd;Writes+Code+%E2%86%92+Breaks+Code+%E2%86%92+Fixes+Code" />
-</p>
-
 ---
 
 ## ⚡ Tech Stack  
