@@ -20,10 +20,6 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techspire0924&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=techspire0924&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techspire0924&theme=tokyo-night&hide_border=true&area=true" />
