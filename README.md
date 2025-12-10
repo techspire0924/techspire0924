@@ -14,58 +14,56 @@
 
 ## 💪 Skills  
 
-<div style="display: flex; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>✨ Languages I use the most</h3>
-    <ul>
-      <li>JavaScript</li>
-      <li>Python</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>❤️ Others I enjoy when needed</h3>
-    <ul>
-      <li>TypeScript</li>
-      <li>React · Next.js</li>
-      <li>Node.js · FastAPI</li>
-      <li>Go · Java</li>
-      <li>PostgreSQL · MongoDB · Redis</li>
-      <li>Docker · AWS · Kubernetes</li>
-    </ul>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>✨ Languages I use the most</h3>
+      <ul>
+        <li>JavaScript</li>
+        <li>Python</li>
+      </ul>
+    </td>
+    <td>
+      <h3>❤️ Others I enjoy when needed</h3>
+      <ul>
+        <li>TypeScript</li>
+        <li>React · Next.js</li>
+        <li>Node.js · FastAPI</li>
+        <li>Go · Java</li>
+        <li>PostgreSQL · MongoDB · Redis</li>
+        <li>Docker · AWS · Kubernetes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧠 Me
 
-<div style="display: flex; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>I like</h3>
-    <ul>
-      <li>🌌 Trying odd ideas</li>
-      <li>🛠 Building things quickly</li>
-      <li>📚 Learning something new</li>
-      <li>🤝 Sharing and talking about tech</li>
-      <li>☕ Headphones + quiet space</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>I believe</h3>
-    <ul>
-      <li>“Build fast, break things, learn always.”</li>
-      <li>Small ideas can become meaningful tools</li>
-      <li>Code should feel good to write</li>
-      <li>Curiosity is a developer's greatest skill</li>
-    </ul>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>I like</h3>
+      <ul>
+        <li>🌌 Trying odd ideas</li>
+        <li>🛠 Building things quickly</li>
+        <li>📚 Learning something new</li>
+        <li>🤝 Sharing and talking about tech</li>
+        <li>☕ Headphones + quiet space</li>
+      </ul>
+    </td>
+    <td>
+      <h3>I believe</h3>
+      <ul>
+        <li>“Build fast, break things, learn always.”</li>
+        <li>Small ideas can become meaningful tools</li>
+        <li>Code should feel good to write</li>
+        <li>Curiosity is a developer's greatest skill</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
