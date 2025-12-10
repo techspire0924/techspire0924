@@ -1,62 +1,31 @@
-<h1 align="center">Hi there! I'm Jan 👋</h1>
-<p align="center">A developer who likes to build small, fun, and curious things ✨</p>
+<h1 align="center">Hi, I'm Jan 👋</h1>
+<p align="center">I love building small, fun things that spark curiosity ✨</p>
 
 ---
 
-## 🐣 About Me
-
-- 👾 I enjoy building things that are fun, surprising, or just make life a bit easier.  
-- 💻 I’m most comfortable with **JavaScript**, and I have a growing passion for **Python** (especially for AI and little tools).  
-- 🌱 Recently, I’ve been exploring machine learning, interactive web experiments, and playful ideas on the web.  
-- 🚀 I like simple ideas that turn into real, working projects.
+### 🐣 About Me
+JS is my home, Python is my passion.  
+I like making playful experiments, tiny tools, and anything that feels exciting to build.
 
 ---
 
-## 💪 Skills
-
-### ✨ Languages I use the most
-- JavaScript  
-- Python  
-
-### ❤️ Others I enjoy when needed
-- TypeScript  
-- React · Next.js  
-- Node.js · FastAPI  
-- Go · Java  
-- PostgreSQL · MongoDB · Redis  
-- Docker · AWS · Kubernetes  
+### 💪 Skills
+**Main:** JavaScript · Python  
+**Others:** TypeScript · React · Next.js · Node.js · FastAPI · Go  
+DBs & DevOps when needed: PostgreSQL · MongoDB · Docker · AWS  
 
 ---
 
-## 🧠 Me
-
-### I like
-- 🌌 Trying odd ideas  
-- 🛠 Building things quickly  
-- 📚 Learning something new  
-- 🤝 Sharing and talking about tech  
-- ☕ Headphones + quiet space
-
-### I believe
-- “Build fast, break things, learn always.”  
-- Small ideas can become meaningful tools  
-- Code should feel good to write  
-- Curiosity is a developer's greatest skill  
+### 🧠 Me
+**I like:** odd ideas, fast builds, learning new things  
+**I believe:** curiosity > perfection  
 
 ---
 
-## 🔥 What I’m Working On
-
-- An interactive **3D multi-window scene**  
-- Python & AI mini-projects  
-- Improving a little bit every day by building
-
-**Demo:** https://techspire0924.github.io/multiWindow3dScene/
+### 🔥 Current Project
+3D multi-window scene →  
+https://techspire0924.github.io/multiWindow3dScene/
 
 ---
 
-## 📬 Contact
-
-If you want to say hi or talk about ideas, feel free to reach out or open an issue :3  
-
-<p align="center">Thanks for visiting my GitHub 💙</p>
+<p align="center">Thanks for stopping by :3 💙</p>
