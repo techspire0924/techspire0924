@@ -14,17 +14,17 @@
 
 ## 💪 Skills  
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">✨ Languages I use the most</th>
     <th align="left">❤️ Others I enjoy when needed</th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       • JavaScript<br>
       • Python
     </td>
-    <td>
+    <td width="50%">
       • TypeScript<br>
       • React · Next.js<br>
       • Node.js · FastAPI<br>
@@ -39,20 +39,20 @@
 
 ## 🧠 Me  
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">I like</th>
     <th align="left">I believe</th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       • 🌌 Trying odd ideas<br>
       • 🛠 Building things quickly<br>
       • 📚 Learning something new<br>
       • 🤝 Sharing and talking about tech<br>
       • ☕ Headphones + quiet space
     </td>
-    <td>
+    <td width="50%">
       • “Build fast, break things, learn always.”<br>
       • Small ideas can become meaningful tools<br>
       • Code should feel good to write<br>
