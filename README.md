@@ -1,35 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=180&section=header&text=Hi%20👋&fontSize=40&fontColor=1a1a1a" />
-</p>
+<h1 align="center">Hi there! I'm Ninja Dev 👋</h1>
+
+<p align="center">A developer who loves creating, experimenting, and learning something new every day ✨</p>
 
 ---
 
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-
-## 🔗 I'm working on ...
-<a style="font-size:12px"> https://techspire0924.github.io/multiWindow3dScene/ </a>
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techspire0924&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+## 💫 About Me  
+👾 I enjoy building things that are fun, surprising, or just make life easier.  
+💻 I’m strongest with **JavaScript**, and I have a growing passion for **Python**—especially when it comes to AI and little productivity tools.  
+🌱 Recently, I’ve been playing with machine learning, interactive web experiments, and anything that sparks curiosity.  
+🚀 I like simple ideas that become real, working projects.
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techspire0924&theme=onedark&no-frame=true&rank=-C" />
-</p>
 
+## 🧩 What I’m Working On  
+- An interactive **3D multi-window scene** → I love weird experiments!  
+- Python-based tools & AI mini-projects  
+- Getting better every day, one small build at a time  
 
+**Demo:** https://techspire0924.github.io/multiWindow3dScene/
 
-<p>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+---
+
+## 💪 Skills  
+### Languages I use the most  
+✨ JavaScript  
+❤️ Python  
+
+### Others I enjoy when needed  
+TypeScript · React · Next.js  
+Node.js · FastAPI  
+Go · Java  
+PostgreSQL · MongoDB · Redis  
+Docker · AWS · Kubernetes  
+
+---
+
+## 🧠 Me, in a few words  
+I like:  
+🌌 Trying odd ideas  
+🛠 Building things quickly  
+📚 Learning something new  
+🤝 Sharing and talking about tech  
+☕ A quiet space + headphones = perfect coding mode
+
+I believe:  
+> “Build fast, break things, learn always.”
+
+---
+
+## 📬 Contact  
+If you want to say hi or chat about ideas, feel free to open an issue or reach out anytime :3
+
+<p align="center">Thanks for visiting my GitHub 💙</p>
