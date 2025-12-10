@@ -1,78 +1,62 @@
 <h1 align="center">Hi there! I'm Jan 👋</h1>
-
-<p align="center">A developer who loves creating, experimenting, and learning something new every day ✨</p>
-
----
-
-## 🐣 About Me  
-👾 I enjoy building things that are fun, surprising, or just make life easier.  
-💻 I’m strongest with **JavaScript**, and I have a growing passion for **Python**—especially for AI and productivity tools.  
-🌱 Recently, I’ve been playing with machine learning, interactive web experiments, and anything that sparks curiosity.  
-🚀 I like simple ideas that turn into real, working projects.
+<p align="center">A developer who likes to build small, fun, and curious things ✨</p>
 
 ---
 
-## 💪 Skills  
+## 🐣 About Me
 
-<table width="100%">
-  <tr>
-    <th align="left">✨ Languages I use the most</th>
-    <th align="left">❤️ Others I enjoy when needed</th>
-  </tr>
-  <tr>
-    <td width="50%">
-      • JavaScript<br>
-      • Python
-    </td>
-    <td width="50%">
-      • TypeScript<br>
-      • React · Next.js<br>
-      • Node.js · FastAPI<br>
-      • Go · Java<br>
-      • PostgreSQL · MongoDB · Redis<br>
-      • Docker · AWS · Kubernetes
-    </td>
-  </tr>
-</table>
+- 👾 I enjoy building things that are fun, surprising, or just make life a bit easier.  
+- 💻 I’m most comfortable with **JavaScript**, and I have a growing passion for **Python** (especially for AI and little tools).  
+- 🌱 Recently, I’ve been exploring machine learning, interactive web experiments, and playful ideas on the web.  
+- 🚀 I like simple ideas that turn into real, working projects.
 
 ---
 
-## 🧠 Me  
+## 💪 Skills
 
-<table width="100%">
-  <tr>
-    <th align="left">I like</th>
-    <th align="left">I believe</th>
-  </tr>
-  <tr>
-    <td width="50%">
-      • 🌌 Trying odd ideas<br>
-      • 🛠 Building things quickly<br>
-      • 📚 Learning something new<br>
-      • 🤝 Sharing and talking about tech<br>
-      • ☕ Headphones + quiet space
-    </td>
-    <td width="50%">
-      • “Build fast, break things, learn always.”<br>
-      • Small ideas can become meaningful tools<br>
-      • Code should feel good to write<br>
-      • Curiosity is a developer's greatest skill
-    </td>
-  </tr>
-</table>
+### ✨ Languages I use the most
+- JavaScript  
+- Python  
+
+### ❤️ Others I enjoy when needed
+- TypeScript  
+- React · Next.js  
+- Node.js · FastAPI  
+- Go · Java  
+- PostgreSQL · MongoDB · Redis  
+- Docker · AWS · Kubernetes  
 
 ---
 
-## 🔥 What I’m Working On  
+## 🧠 Me
+
+### I like
+- 🌌 Trying odd ideas  
+- 🛠 Building things quickly  
+- 📚 Learning something new  
+- 🤝 Sharing and talking about tech  
+- ☕ Headphones + quiet space
+
+### I believe
+- “Build fast, break things, learn always.”  
+- Small ideas can become meaningful tools  
+- Code should feel good to write  
+- Curiosity is a developer's greatest skill  
+
+---
+
+## 🔥 What I’m Working On
+
 - An interactive **3D multi-window scene**  
-- Python tools & AI mini-projects  
-- Improving every day, one build at a time  
+- Python & AI mini-projects  
+- Improving a little bit every day by building
 
 **Demo:** https://techspire0924.github.io/multiWindow3dScene/
 
 ---
 
-## 📬 Contact  
-Feel free to say hi or chat about ideas anytime :3
+## 📬 Contact
+
+If you want to say hi or talk about ideas, feel free to reach out or open an issue :3  
 
 <p align="center">Thanks for visiting my GitHub 💙</p>
