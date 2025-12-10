@@ -4,7 +4,7 @@
 
 ---
 
-## 💫 About Me  
+## 🐣 About Me  
 👾 I enjoy building things that are fun, surprising, or just make life easier.  
 💻 I’m strongest with **JavaScript**, and I have a growing passion for **Python**—especially for AI and productivity tools.  
 🌱 Recently, I’ve been playing with machine learning, interactive web experiments, and anything that sparks curiosity.  
@@ -16,51 +16,47 @@
 
 <table>
   <tr>
+    <th align="left">✨ Languages I use the most</th>
+    <th align="left">❤️ Others I enjoy when needed</th>
+  </tr>
+  <tr>
     <td>
-      <h3>✨ Languages I use the most</h3>
-      <ul>
-        <li>JavaScript</li>
-        <li>Python</li>
-      </ul>
+      • JavaScript<br>
+      • Python
     </td>
     <td>
-      <h3>❤️ Others I enjoy when needed</h3>
-      <ul>
-        <li>TypeScript</li>
-        <li>React · Next.js</li>
-        <li>Node.js · FastAPI</li>
-        <li>Go · Java</li>
-        <li>PostgreSQL · MongoDB · Redis</li>
-        <li>Docker · AWS · Kubernetes</li>
-      </ul>
+      • TypeScript<br>
+      • React · Next.js<br>
+      • Node.js · FastAPI<br>
+      • Go · Java<br>
+      • PostgreSQL · MongoDB · Redis<br>
+      • Docker · AWS · Kubernetes
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 Me
+## 🧠 Me  
 
 <table>
   <tr>
+    <th align="left">I like</th>
+    <th align="left">I believe</th>
+  </tr>
+  <tr>
     <td>
-      <h3>I like</h3>
-      <ul>
-        <li>🌌 Trying odd ideas</li>
-        <li>🛠 Building things quickly</li>
-        <li>📚 Learning something new</li>
-        <li>🤝 Sharing and talking about tech</li>
-        <li>☕ Headphones + quiet space</li>
-      </ul>
+      • 🌌 Trying odd ideas<br>
+      • 🛠 Building things quickly<br>
+      • 📚 Learning something new<br>
+      • 🤝 Sharing and talking about tech<br>
+      • ☕ Headphones + quiet space
     </td>
     <td>
-      <h3>I believe</h3>
-      <ul>
-        <li>“Build fast, break things, learn always.”</li>
-        <li>Small ideas can become meaningful tools</li>
-        <li>Code should feel good to write</li>
-        <li>Curiosity is a developer's greatest skill</li>
-      </ul>
+      • “Build fast, break things, learn always.”<br>
+      • Small ideas can become meaningful tools<br>
+      • Code should feel good to write<br>
+      • Curiosity is a developer's greatest skill
     </td>
   </tr>
 </table>
