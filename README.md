@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jan 👋</h1>
+<h1 align="center">Hi, I'm Kevin 👋</h1>
 <p align="center">Building playful & curious little projects that spark joy ✨</p>
 
 ### 🐣 About Me  
