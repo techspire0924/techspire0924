@@ -22,7 +22,9 @@ I enjoy turning small ideas into fun experiments and working code.
 
 ### 🔥 Now Building  
 **🌐 Multi-Window 3D Scene** — playful web experiment mixing multiple browser windows into one 3D canvas.  
+
 Demo → https://techspire0924.github.io/multiWindow3dScene/
+
 Repo → https://github.com/techspire0924/multiWindow3dScene
 
 <p align="center">Thanks for stopping by :3 💙</p>
