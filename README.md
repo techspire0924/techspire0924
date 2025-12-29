@@ -56,6 +56,6 @@ I enjoy turning small ideas into fun experiments and working code.
 Demo → https://techspire0924.github.io/multiWindow3dScene/ → ⭐ If you like the demo, feel free to ⭐ the repo!
 
 Repo →  https://github.com/techspire0924/multiWindow3dScene
-        https://github.com/techspire0924/multiWindow3dScene/discussion → Share your creative ideas here 👍
+Let's discuss → https://github.com/techspire0924/multiWindow3dScene/discussions → Share your creative ideas here 👍
 
 <p align="center">Thanks for stopping by :3 💙</p>
