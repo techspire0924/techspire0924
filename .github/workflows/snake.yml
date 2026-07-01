@@ -28,6 +28,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#1a1b26,#24283b,#414868,#7aa2f7,#bb9af7
 
+      - name: Fix dist permissions
+        run: sudo chmod -R a+rwX dist
+
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
